@@ -1,2 +1,4 @@
 target/
 Cargo.lock
+openssl-sys/conan_cargo_build.rs
+openssl-sys/conaninfo.txt

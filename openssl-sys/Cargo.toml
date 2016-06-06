@@ -8,7 +8,7 @@ description = "FFI bindings to OpenSSL"
 repository = "https://github.com/sfackler/rust-openssl"
 documentation = "https://sfackler.github.io/rust-openssl/doc/v0.7.13/openssl_sys"
 links = "openssl"
-build = "build.rs"
+build = "conan_cargo_build.rs"
 
 [features]
 tlsv1_2 = []
